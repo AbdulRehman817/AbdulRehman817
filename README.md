@@ -1,7 +1,6 @@
       
+ ![1](https://github.com/user-attachments/assets/3ef8e859-0d1c-47d8-af92-c999fbf92ec6)
  
-![download-Photoroom](https://github.com/user-attachments/assets/ef639b3d-41aa-4610-8ff5-1a51189a6a94)
-
 Hello! 👋 I'm Abdul Rehman, a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I enjoy creating visually appealing and user-friendly websites, and I'm always excited to dive into new challenges and technologies.<br><br>What 
 I Do<br>HTML: Crafting well-structured and semantic web pages.<br>CSS: Designing responsive and aesthetically pleasing layouts.<br>JavaScript: Adding interactive and dynamic elements to enhance user experiences.<br>Currently Learning<br>I'm currently expanding my skills with React.js, diving into component-based architecture, state management, and the React ecosystem. I'm eager to build more dynamic and scalable web applications as I continue to grow my expertise in this powerful library.<br><br>What Excites Me<br>Building seamless user experiences<br>Exploring new web technologies and best practices<br>Collaborating on projects and learning from others in the community<br>Feel free to check out my repositories to see some of the projects I’ve worked on, and don’t hesitate to reach out if you’d like to connect or collaborate!
 
