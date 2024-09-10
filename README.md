@@ -1,7 +1,8 @@
       
  
 
-![resize-17259683231983770313background3](https://github.com/user-attachments/assets/b00a2367-d4b3-4d61-af59-523443abb3e2)
+
+![resize-17259684771010812719background3461x170](https://github.com/user-attachments/assets/638940c0-3e55-4a13-b993-3d700198309f)
 
 
 Hello! 👋 I'm Abdul Rehman, a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I enjoy creating visually appealing and user-friendly websites, and I'm always excited to dive into new challenges and technologies.<br><br>What 
