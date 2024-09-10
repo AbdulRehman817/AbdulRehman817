@@ -1,4 +1,4 @@
-https://github.com/AbdulRehman817/AbdulRehman817/blob/main/ai-generated-8329581_1280.jpg?raw=true
+https://raw.githubusercontent.com/AbdulRehman817/AbdulRehman817/main/ai-generated-8329581_1280.jpg
 
 
                                                 
