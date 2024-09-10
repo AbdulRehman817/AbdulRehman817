@@ -2,7 +2,8 @@
 
 
 
-![ai-generated-8329596_640](https://github.com/user-attachments/assets/c7debca2-be65-409b-8115-3a6b0e4e14ee)
+
+![code-geek-2680204_640](https://github.com/user-attachments/assets/84d8341a-b030-4e67-aec8-0e2bc8810dc1)
 
 
 Hello! 👋 I'm Abdul Rehman, a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I enjoy creating visually appealing and user-friendly websites, and I'm always excited to dive into new challenges and technologies.<br><br>What I Do<br>HTML: Crafting well-structured and semantic web pages.<br>CSS: Designing responsive and aesthetically pleasing layouts.<br>JavaScript: Adding interactive and dynamic elements to enhance user experiences.<br>Currently Learning<br>I'm currently expanding my skills with React.js, diving into component-based architecture, state management, and the React ecosystem. I'm eager to build more dynamic and scalable web applications as I continue to grow my expertise in this powerful library.<br><br>What Excites Me<br>Building seamless user experiences<br>Exploring new web technologies and best practices<br>Collaborating on projects and learning from others in the community<br>Feel free to check out my repositories to see some of the projects I’ve worked on, and don’t hesitate to reach out if you’d like to connect or collaborate!
