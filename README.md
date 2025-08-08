@@ -61,7 +61,8 @@ To contribute to meaningful and scalable web applications that blend **creativit
 
 ## 🔥 GitHub Streak
 
-![Abdul Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulRehman817&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername" />
+
 
 
 ---
