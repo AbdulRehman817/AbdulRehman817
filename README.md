@@ -61,7 +61,11 @@ To contribute to meaningful and scalable web applications that blend **creativit
 
 ## 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman817" />
+## 📈 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman817&theme=dracula&hide_border=true" />
+</p>
 
 
 
