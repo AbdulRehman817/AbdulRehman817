@@ -49,7 +49,7 @@ To contribute to meaningful and scalable web applications that blend **creativit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehmanbey1718&show_icons=true&theme=github_dark" alt="Abdul Rehman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman817&show_icons=true&theme=github_dark" alt="Abdul Rehman's GitHub Stats" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ To contribute to meaningful and scalable web applications that blend **creativit
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanbey1718&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman817&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,14 +65,14 @@ To contribute to meaningful and scalable web applications that blend **creativit
 ## 📌 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmanbey1718&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman817&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-**LinkedIn:** [linkedin.com/in/abdulrehmanbey](https://www.linkedin.com/in/abdulrehmanbey)  
+**LinkedIn:** [linkedin.com/in/abdul-rehman-7aa108328](https://www.linkedin.com/in/abdul-rehman-7aa108328/)  
 **Email:** abdulrehmanbey1718@gmail.com  
 **Phone:** +92 331 3301452  
 
