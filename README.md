@@ -1,3 +1,5 @@
+
+
 # 👋 Hello, I'm Abdul Rehman!
 
 I'm a passionate and detail-oriented web developer currently studying at **DJ Science College**, actively building my career in **full-stack web development**.
@@ -57,8 +59,9 @@ To contribute to meaningful and scalable web applications that blend **creativit
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman817&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulRehman817&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
