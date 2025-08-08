@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdulRehman817/AbdulRehman817/main/banner.png" alt="Banner" />
+</p>
 
 
 # 👋 Hello, I'm Abdul Rehman!
@@ -58,9 +61,11 @@ To contribute to meaningful and scalable web applications that blend **creativit
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulRehman817&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdulrehmanbey1718&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abdulrehmanbey1718&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=abdulrehmanbey1718&hide_border=true">
+</picture>
 
 
 ---
