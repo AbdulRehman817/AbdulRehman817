@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdulRehman817/AbdulRehman817/main/header.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/AbdulRehman817/AbdulRehman817/main/myBanner.png" alt="Banner" />
 </p>
 
 <!-- Typing Animation -->
