@@ -72,9 +72,10 @@ I’m a passionate and detail-oriented **Full Stack Web Developer** currently st
 
 ---
 
-## 😂 Dev Joke
-> "Why do programmers prefer dark mode?  
-> Because light attracts bugs 🐛"
+## 😂 Dev Humor
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
 
 ---
 
