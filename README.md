@@ -2,33 +2,28 @@
   <img src="https://raw.githubusercontent.com/AbdulRehman817/AbdulRehman817/main/header.png" alt="Banner" />
 </p>
 
-<h1 align="center">👋 Hello, I'm Abdul Rehman</h1>
-<h3 align="center">🚀 Full Stack Developer | Crafting Modern Web & Mobile Experiences</h3>
-
+<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
+<h3 align="center">Passionate & Detail-Oriented Full Stack Web Developer</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-rehman-7aa108328/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdulrehmanbey1718@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AbdulRehman817&label=Profile%20Views&color=0e75b6&style=flat" />
+  <em>Currently studying at <b>DJ Science College</b> & building a future in web development 🚀</em>
 </p>
 
 ---
 
-## 🌟 About Me
-I’m a passionate and detail-oriented **Full Stack Web Developer** currently studying at **DJ Science College**.  
+## 👨‍💻 About Me
+
+I’m a passionate and detail-oriented **Full Stack Web Developer** currently studying at **DJ Science College**.
 
 💻 Skilled in **React.js, Next.js, TypeScript, Tailwind CSS** for building sleek, responsive UIs.  
-🛠 Learning backend development with **Node.js** & **Express.js**, API integrations, and authentication workflows using **Clerk**.  
-🎯 Goal: To create scalable, secure, and impactful applications that merge **creativity** with **functionality**.  
+🛠 Learning backend development with **Node.js & Express.js**, API integrations, and authentication workflows using **Clerk**.  
+🎯 Goal: To create scalable, secure, and impactful applications that merge creativity with functionality.
 
 ---
 
 ## 💡 What I Bring to the Table
+
 ✅ **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
-✅ **Backend:** API development, Clerk authentication, Node.js (learning)  
+✅ **Backend:** API development, Clerk authentication, Node.js *(learning)*  
 ✅ **Full-Stack Thinking:** Connecting frontend & backend seamlessly  
 ✅ **Problem Solver:** Clean, maintainable, and scalable code  
 ✅ **Team Player:** Thrives in collaboration & feedback-driven environments  
@@ -36,47 +31,30 @@ I’m a passionate and detail-oriented **Full Stack Web Developer** currently st
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman817&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman817&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanBey&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulRehmanBey&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📫 Connect With Me
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman817&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://linkedin.com/in/abdul-rehman-7aa108328" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:abdulrehmanbey1718@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/AbdulRehmanBey"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman817&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 😂 Random Dev Joke
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</p>
-
----
-
-## 📫 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-rehman-7aa108328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abdulrehmanbey1718@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-⭐ *Thanks for visiting my profile!*
+> 💡 *“Programming is like magic — except when you debug, then it’s detective work.”*
