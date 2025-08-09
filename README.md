@@ -41,7 +41,7 @@ I’m a passionate and detail-oriented **Full Stack Web Developer** currently st
 
 <p align="center">
 <!--     <img src="https://github-readme-streak-stats.vercel.app?user=AbdulRehman817&theme=tokyonight&hide_border=true" height="165"/> -->
-<img src="https://git-hub-streak-stats.vercel.app?user=AbdulRehman817&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://git-hub-streak-stats.vercel.app?user=AbdulRehman817&theme=tokyonight" alt="GitHub Streak" height="165"/>
     <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman817&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   </a>
 </p>
