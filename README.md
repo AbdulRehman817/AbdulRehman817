@@ -41,8 +41,8 @@ I’m a passionate and detail-oriented **Full Stack Web Developer** currently st
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanBey&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulRehmanBey&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman817&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulRehman817&theme=tokyonight" height="165"/>
 </p>
 
 ---
