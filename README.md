@@ -40,11 +40,53 @@ I’m a passionate and detail-oriented **Full Stack Web Developer** currently st
 ---
 
 ## 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Portfolio Website**](#) | My personal portfolio showcasing my skills and projects | React, Tailwind CSS |
-| [**E-commerce App**](#) | Full-stack shopping app with payment integration | Next.js, MongoDB, Stripe |
-| [**Blog Platform**](#) | Modern blog app with authentication and CMS | Next.js, Clerk, Firebase |
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://your-portfolio-link.com" target="_blank">
+        <img src="https://via.placeholder.com/400x200?text=Portfolio+Preview" alt="Personal Portfolio" width="100%" />
+      </a>
+      <br>
+      <b>Personal Portfolio</b><br>
+      <a href="https://your-portfolio-link.com" target="_blank">🌐 Live Demo</a> | <a href="https://github.com/AbdulRehman817/portfolio" target="_blank">💻 Code</a><br>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      <br>
+      A fully responsive, modern personal website to showcase my skills, projects, and experience. Designed for minimalism, accessibility, and performance.
+    </td>
+
+    <td align="center" width="33%">
+      <a href="https://your-ecommerce-link.com" target="_blank">
+        <img src="https://via.placeholder.com/400x200?text=E-Commerce+Preview" alt="E-Commerce Platform" width="100%" />
+      </a>
+      <br>
+      <b>E-Commerce Platform</b><br>
+      <a href="https://your-ecommerce-link.com" target="_blank">🌐 Live Demo</a> | <a href="https://github.com/AbdulRehman817/ecommerce" target="_blank">💻 Code</a><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white" />
+      <br>
+      A full-stack shopping platform with product search, cart management, checkout flow, and secure payment integration.
+    </td>
+
+    <td align="center" width="33%">
+      <a href="https://your-blog-link.com" target="_blank">
+        <img src="https://via.placeholder.com/400x200?text=Blog+App+Preview" alt="Blog App" width="100%" />
+      </a>
+      <br>
+      <b>Content-Driven Blog App</b><br>
+      <a href="https://your-blog-link.com" target="_blank">🌐 Live Demo</a> | <a href="https://github.com/AbdulRehman817/blog-app" target="_blank">💻 Code</a><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Clerk-512BF2?style=flat&logo=clerk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+      <br>
+      A sleek and dynamic blogging platform with user authentication, rich text editor, and real-time content management.
+    </td>
+  </tr>
+</table>
+
 
 ---
 
