@@ -2,11 +2,6 @@
   <img src="https://raw.githubusercontent.com/AbdulRehman817/AbdulRehman817/main/header.png" alt="Banner" />
 </p>
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/z2zU5Qh.png" alt="Banner" width="100%" />
-</p>
-
 <!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=0E9F6E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Rehman;Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+Node.js;Always+Learning+%F0%9F%8E%93" />
@@ -63,7 +58,7 @@ I’m a passionate and detail-oriented **Full Stack Web Developer** currently st
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehmanBey&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman817&theme=github-dark" />
 </p>
 
 ---
