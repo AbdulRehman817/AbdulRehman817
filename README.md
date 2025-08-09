@@ -8,27 +8,29 @@
 </h1>
 
 <h3 align="center">Passionate & Detail-Oriented Full Stack Web Developer</h3>
-<p align="center">
-  <em>Currently studying at <b>DJ Science College</b> & building a future in web development 🚀</em>
-</p>
+<p align="center"> <em>Turning coffee into code, and ideas into applications 🚀</em> </p> 
 
 ---
 
 ## 👨‍💻 About Me
-I’m a passionate and detail-oriented **Full Stack Web Developer** currently studying at **DJ Science College**.
 
-💻 Skilled in **React.js, Next.js, TypeScript, Tailwind CSS** for building sleek, responsive UIs.  
-🛠 Learning backend development with **Node.js & Express.js**, API integrations, and authentication workflows using **Clerk**.  
-🎯 Goal: To create scalable, secure, and impactful applications that merge creativity with functionality.
+I'm a passionate and detail-oriented **Web Developer** currently studying at **DJ Science College**, actively building my career in **Full-Stack Web Development**.
+
+I’ve developed a strong foundation in **HTML, CSS, JavaScript** and have hands-on experience using **React.js, Next.js, TypeScript, and Tailwind CSS** to create responsive, modern web interfaces.
+
+On the backend, I’m learning to build **secure and scalable** applications. I've worked with **API development**, **integration**, and **authentication workflows** using **Clerk**.
+
 
 ---
 
-## 💡 What I Bring to the Table
-✅ **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
-✅ **Backend:** API development, Clerk authentication, Node.js *(learning)*  
-✅ **Full-Stack Thinking:** Connecting frontend & backend seamlessly  
-✅ **Problem Solver:** Clean, maintainable, and scalable code  
-✅ **Team Player:** Thrives in collaboration & feedback-driven environments  
+## 💡 What I Bring to the Table 
+- 💻 **Frontend Development:** React.js, Next.js, TypeScript, Tailwind CSS
+- 🛠️ **Backend Skills:** API development, Clerk authentication, Node.js (learning)
+- 🔄 **Full-Stack Thinking:** Connecting frontend & backend for seamless UX
+- 🧠 **Growth Mindset:** Always learning, experimenting & building
+- 🧩 **Problem Solver:** Clean, maintainable code with attention to detail
+- 🤝 **Collaborator:** Open to code reviews, teamwork, and innovation
+- 📅 **Organized:** Manages time well, adapts to fast-paced environments
 
 ---
 
