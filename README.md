@@ -39,12 +39,13 @@ I’m a passionate and detail-oriented **Full Stack Web Developer** currently st
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman817&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.vercel.app?username=AbdulRehman817&theme=tokyonight&show_icons=true" height="165"/>
-<!--   [(https://streak-stats.demolab.com/?user=AbdulRehman817&theme=tokyonight)](https://git.io/streak-stats) -->
+  <a href="https://github.com/AbdulRehman817" target="_blank">
+    <img src="https://github-readme-streak-stats.vercel.app?user=AbdulRehman817&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman817&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  </a>
 </p>
+
 
 ---
 
