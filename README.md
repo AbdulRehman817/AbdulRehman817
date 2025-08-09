@@ -72,11 +72,11 @@ I’m a passionate and detail-oriented **Full Stack Web Developer** currently st
 
 ---
 
-## 😂 Dev Humor
+## 🐛 Dev Humor
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  💡 <i>Why do developers prefer dark mode?</i><br>
+  <b>Because light attracts bugs.</b> 🐞
 </p>
 
 ---
-
 ⭐️ *Thanks for visiting my profile!*
