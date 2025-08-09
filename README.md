@@ -38,7 +38,7 @@ I’m a passionate and detail-oriented **Full Stack Web Developer** currently st
 </p>
 
 ---
-
+## 📊 GitHub Stats
 <p align="center">
 <!--     <img src="https://github-readme-streak-stats.vercel.app?user=AbdulRehman817&theme=tokyonight&hide_border=true" height="165"/> -->
 <img src="https://git-hub-streak-stats.vercel.app?user=AbdulRehman817&theme=tokyonight" alt="GitHub Streak" height="165"/>
