@@ -62,12 +62,8 @@ I work across the whole pipeline: sourcing and cleaning data, exploratory analys
 
 <br/>
 
-<img src="assets/h-stats.png" width="100%" alt="GitHub Stats"/>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman817&show_icons=true&hide_border=false&bg_color=14151A&title_color=E53E38&icon_color=E53E38&text_color=EDEAE3&border_color=34363E&border_radius=16" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman817&layout=compact&hide_border=false&bg_color=14151A&title_color=E53E38&text_color=EDEAE3&border_color=34363E&border_radius=16" alt="Top languages"/>
-</p>
+<img src="assets/h-stats.png" width="100%" alt="Snapshot"/>
+<img src="assets/stats.png" width="100%" alt="86 public repos, 3 deployed ML apps, 1 Kaggle dataset, 8 ML projects built"/>
 
 <br/>
 
