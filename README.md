@@ -5,85 +5,71 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdulrehman1718/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/abdulrehman1718"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-  <a href="https://abdulrehmanweb.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F2A33A?style=flat-square&logo=vercel&logoColor=black"/></a>
-  <a href="mailto:abdulrehmanbey1718@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abdulrehman1718/"><img src="https://img.shields.io/badge/LinkedIn-14151A?style=for-the-badge&logo=linkedin&logoColor=E53E38" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/abdulrehman1718"><img src="https://img.shields.io/badge/Kaggle-14151A?style=for-the-badge&logo=kaggle&logoColor=E53E38" alt="Kaggle"/></a>
+  <a href="https://abdulrehmanweb.vercel.app"><img src="https://img.shields.io/badge/Portfolio-14151A?style=for-the-badge&logo=vercel&logoColor=E53E38" alt="Portfolio"/></a>
+  <a href="mailto:abdulrehmanbey1718@gmail.com"><img src="https://img.shields.io/badge/Email-14151A?style=for-the-badge&logo=gmail&logoColor=E53E38" alt="Email"/></a>
 </p>
 
-## About
+<br/>
 
-I'm a Software Engineering student at the **University of Karachi (UBIT)** working toward a career in **data science and AI engineering**.
+<img src="assets/h-about.png" width="100%" alt="About"/>
 
-I started in web development, so I don't stop at the notebook. I take a model from raw data to a deployed app that someone can actually use.
+```python
+abdul = {
+    "role":      "Aspiring Data Scientist & AI Engineer",
+    "based_in":  "Karachi, Pakistan",
+    "studying":  "BS Software Engineering @ University of Karachi (UBIT)",
+    "training":  "Diploma in Advancement in AI (Level 4) @ Alnafi",
+    "background": "Web developer who learned to ship models, not just train them",
+    "focus":     ["data cleaning", "EDA", "classical ML", "deployment"],
+    "learning":  ["TensorFlow / Keras", "CNNs", "LLMs", "RAG"],
+    "open_to":   "AI / Data Science internships (remote, on-site or hybrid)",
+}
+```
 
-I work across the full pipeline: sourcing and cleaning data, exploratory analysis, feature engineering, modeling, evaluation, and deployment.
+I work across the whole pipeline: sourcing and cleaning data, exploratory analysis, feature engineering, modeling, evaluation, and deployment. A model only counts once someone can use it.
 
-**Currently:** neural networks and CNNs (TensorFlow / Keras), then LLMs and RAG.
-**Looking for:** an AI / Data Science internship (remote, on-site or hybrid).
+<br/>
 
----
+<img src="assets/h-skills.png" width="100%" alt="Skills"/>
+<img src="assets/skills.png" width="100%" alt="Skills: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit, Jupyter, Git, GitHub. Learning TensorFlow, Keras, CNNs, LLMs, RAG."/>
 
-## Projects
+<br/>
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Air Quality Prediction**](https://github.com/AbdulRehman817/Air_Quality_Prediction) | Forecasts air quality for Karachi from live OpenWeatherMap data, served as a Streamlit dashboard. Includes a data-leakage fix using a target shift. | Python, Bagging Classifier, Streamlit |
-| [**Heart Disease Prediction App**](https://github.com/AbdulRehman817/Heart-Disease-Prediction-App) | Predicts heart disease risk from patient data in a web app. | Python, Scikit-learn, Streamlit |
-| [**Rainfall Prediction**](https://github.com/AbdulRehman817/RainFall_Prediction_Project) | Predicts rainfall from weather data and serves it through a web interface. | Pandas, NumPy, Scikit-learn, Streamlit |
-| [**TMDB Movies Dataset + Recommender**](https://www.kaggle.com/abdulrehman1718) | Collected my own movie dataset from the TMDB API and published it on Kaggle with EDA and a recommender notebook. | Python, Pandas, Kaggle |
-
-Also built: loan prediction (full pipeline with GridSearchCV and ensembles), plus analyses on Titanic, Ford car prices, Netflix content and insurance costs.
-
----
-
-## Skills
-
-| | |
-|---|---|
-| **Language** | Python |
-| **Data** | Pandas, NumPy, data cleaning, EDA, feature engineering |
-| **Machine learning** | Scikit-learn: regression, classification, ensembles, GridSearchCV, cross-validation |
-| **Evaluation** | Accuracy, precision, recall, RMSE, train-test discipline, avoiding data leakage |
-| **Visualization** | Matplotlib |
-| **Tools** | Jupyter Notebook, Git, GitHub, Streamlit |
-| **Web background** | React, Next.js, Node.js, Tailwind CSS |
-| **Learning** | TensorFlow, Keras, LLMs, RAG |
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pandas,numpy,jupyter,git,github,react,nextjs,nodejs"/>
-</p>
-
----
-
-## Experience & Education
-
-**Data Science Intern, Diploma in Advancement in Artificial Intelligence (Level 4)** — Alnafi
-Hands-on program covering the end-to-end ML workflow: cleaning real-world datasets, EDA, feature engineering, training and evaluating regression and classification models, and documenting reproducible analyses in Jupyter.
-
-**BS Software Engineering** — University of Karachi (UBIT)
-
----
-
-## GitHub Stats
+<img src="assets/h-projects.png" width="100%" alt="Projects"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman817&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman817&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/AbdulRehman817/Air_Quality_Prediction"><img src="assets/p-air.png" width="49%" alt="Air Quality Prediction"/></a>
+  <a href="https://github.com/AbdulRehman817/Heart-Disease-Prediction-App"><img src="assets/p-heart.png" width="49%" alt="Heart Disease Prediction"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AbdulRehman817/RainFall_Prediction_Project"><img src="assets/p-rain.png" width="49%" alt="Rainfall Prediction"/></a>
+  <a href="https://www.kaggle.com/abdulrehman1718"><img src="assets/p-tmdb.png" width="49%" alt="TMDB Movies Dataset"/></a>
 </p>
 
----
+<p align="center"><sub>Also built: loan prediction (GridSearchCV + ensembles) and analyses on Titanic, Ford car prices, Netflix and insurance costs.</sub></p>
 
-## Roadmap
+<br/>
 
-- [x] Python, Pandas, NumPy, visualization
-- [x] Classical ML, tuning, ensembles
-- [x] End-to-end projects with deployment
-- [ ] Neural networks and CNNs
-- [ ] LLM foundations and RAG
-- [ ] AI agents and evaluation
-- [ ] Production AI portfolio project
+<img src="assets/h-education.png" width="100%" alt="Education & Training"/>
+<img src="assets/education.png" width="100%" alt="Diploma in Advancement in AI (Alnafi) and BS Software Engineering (University of Karachi)"/>
 
----
+<br/>
 
-<p align="center">Open to internships and collaborations. Reach out at <a href="mailto:abdulrehmanbey1718@gmail.com">abdulrehmanbey1718@gmail.com</a></p>
+<img src="assets/h-roadmap.png" width="100%" alt="Roadmap"/>
+<img src="assets/roadmap.png" width="100%" alt="Roadmap: Python, classical ML and deployment done. Deep learning now. LLMs, RAG, agents and evals next."/>
+
+<br/>
+
+<img src="assets/h-stats.png" width="100%" alt="GitHub Stats"/>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman817&show_icons=true&hide_border=false&bg_color=14151A&title_color=E53E38&icon_color=E53E38&text_color=EDEAE3&border_color=34363E&border_radius=16" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman817&layout=compact&hide_border=false&bg_color=14151A&title_color=E53E38&text_color=EDEAE3&border_color=34363E&border_radius=16" alt="Top languages"/>
+</p>
+
+<br/>
+
+<img src="assets/h-contact.png" width="100%" alt="Contact"/>
+<a href="mailto:abdulrehmanbey1718@gmail.com"><img src="assets/contact.png" width="100%" alt="Get in touch"/></a>
