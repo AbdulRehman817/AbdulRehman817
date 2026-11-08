@@ -5,29 +5,62 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdulrehman1718/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://www.kaggle.com/abdulrehman1718"><b>Kaggle</b></a> &nbsp;·&nbsp;
-  <a href="https://abdulrehmanweb.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="mailto:abdulrehmanbey1718@gmail.com"><b>Email</b></a>
+  <a href="https://linkedin.com/in/abdulrehman1718/"><img src="https://img.shields.io/badge/LinkedIn-14151A?style=for-the-badge&logo=linkedin&logoColor=E53E38" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/abdulrehman1718"><img src="https://img.shields.io/badge/Kaggle-14151A?style=for-the-badge&logo=kaggle&logoColor=E53E38" alt="Kaggle"/></a>
+  <a href="https://abdulrehmanweb.vercel.app"><img src="https://img.shields.io/badge/Portfolio-14151A?style=for-the-badge&logo=vercel&logoColor=E53E38" alt="Portfolio"/></a>
+  <a href="mailto:abdulrehmanbey1718@gmail.com"><img src="https://img.shields.io/badge/Email-14151A?style=for-the-badge&logo=gmail&logoColor=E53E38" alt="Email"/></a>
 </p>
 
-<img src="about.png" width="100%" alt="About: I turn raw data into models that ship. BS Software Engineering student at UBIT, Karachi. Diploma in AI (Level 4) from Alnafi. Open to internships."/>
+<br/>
 
-<img src="toolkit.png" width="100%" alt="Toolkit: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter, Streamlit, Git, GitHub, React, Next.js, Node.js, Tailwind CSS. Learning: TensorFlow, Keras, LLMs, RAG."/>
+<img src="assets/h-about.png" width="100%" alt="About"/>
 
-<img src="projects-head.png" width="100%" alt="Selected work"/>
+```python
+abdul = {
+    "role":       "Aspiring Data Scientist & ML Engineer",
+    "based_in":   "Karachi, Pakistan",
+    "studying":   "BS Software Engineering @ University of Karachi (UBIT)",
+    "training":   "Diploma in Advancement in AI (Level 4) @ Alnafi",
+    "background": "Web developer who now ships models, not just pages",
+    "focus":      ["data cleaning", "EDA", "feature engineering", "classical ML", "deployment"],
+    "learning":   ["TensorFlow / Keras", "CNNs", "LLMs", "RAG"],
+    "open_to":    "Data Science / ML internships (remote, on-site or hybrid)",
+}
+```
+
+I work across the whole pipeline: sourcing and cleaning data, exploratory analysis, feature engineering, modeling, evaluation and deployment. A model only counts once someone can use it.
+
+<br/>
+
+<img src="assets/h-skills.png" width="100%" alt="Skills"/>
+<img src="assets/skills.png" width="100%" alt="Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter, Streamlit, Git, GitHub. Web background: React, Next.js, Node.js, Tailwind CSS. Learning: TensorFlow, Keras, CNNs, LLMs, RAG."/>
+
+<br/>
+
+<img src="assets/h-projects.png" width="100%" alt="Projects"/>
 
 <p align="center">
-  <a href="https://github.com/AbdulRehman817/Air_Quality_Prediction"><img src="proj-air.png" width="49%" alt="Air Quality Prediction: forecasts air quality for Karachi from live OpenWeatherMap data, Streamlit dashboard"/></a>
-  <a href="https://github.com/AbdulRehman817/Heart-Disease-Prediction-App"><img src="proj-heart.png" width="49%" alt="Heart Disease Prediction: predicts heart disease risk, interactive web app"/></a>
+  <a href="https://github.com/AbdulRehman817/Air_Quality_Prediction"><img src="assets/p-air.png" width="49%" alt="Air Quality Prediction: forecasts Karachi air quality from live OpenWeatherMap data, Streamlit dashboard"/></a>
+  <a href="https://github.com/AbdulRehman817/Heart-Disease-Prediction-App"><img src="assets/p-heart.png" width="49%" alt="Heart Disease Prediction: predicts heart disease risk, interactive Streamlit app"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/AbdulRehman817/RainFall_Prediction_Project"><img src="proj-rain.png" width="49%" alt="Rainfall Prediction: Pandas, NumPy, Scikit-learn, Streamlit web app"/></a>
-  <a href="https://www.kaggle.com/abdulrehman1718"><img src="proj-tmdb.png" width="49%" alt="TMDB Movies Dataset: published on Kaggle with EDA and a recommender notebook"/></a>
+  <a href="https://github.com/AbdulRehman817/RainFall_Prediction_Project"><img src="assets/p-rain.png" width="49%" alt="Rainfall Prediction: Pandas, NumPy, Scikit-learn, Streamlit web app"/></a>
+  <a href="https://www.kaggle.com/abdulrehman1718"><img src="assets/p-tmdb.png" width="49%" alt="TMDB Movies Dataset: published on Kaggle with EDA and a recommender notebook"/></a>
 </p>
 
-<p align="center"><sub>Also built: loan prediction (GridSearchCV + ensembles) and analyses on Titanic, Ford car prices, Netflix and insurance costs.</sub></p>
+<p align="center"><sub>Also built: loan prediction (GridSearchCV + ensembles) and analyses on Titanic, Ford car prices, Netflix and insurance costs — see <a href="https://github.com/AbdulRehman817/Machine_Learning">Machine_Learning</a>.</sub></p>
 
-<img src="journey.png" width="100%" alt="Journey: web development at Saylani, Diploma in AI at Alnafi, ML apps shipped, now deep learning, next LLMs and RAG, then agents and evaluation. BS Software Engineering at the University of Karachi in progress."/>
+<br/>
 
-<a href="mailto:abdulrehmanbey1718@gmail.com"><img src="contact.png" width="100%" alt="Let's build something that ships. abdulrehmanbey1718@gmail.com"/></a>
+<img src="assets/h-education.png" width="100%" alt="Education & Training"/>
+<img src="assets/education.png" width="100%" alt="Diploma in Advancement in AI, Level 4 (Alnafi). BS Software Engineering, in progress (University of Karachi, UBIT)."/>
+
+<br/>
+
+<img src="assets/h-roadmap.png" width="100%" alt="Roadmap"/>
+<img src="assets/roadmap.png" width="100%" alt="Done: Python & data analysis, classical ML & tuning, deployment with Streamlit. Now: deep learning (CNNs, Keras). Next: LLMs & RAG, then agents, evals & capstone."/>
+
+<br/>
+
+<img src="assets/h-contact.png" width="100%" alt="Contact"/>
+<a href="mailto:abdulrehmanbey1718@gmail.com"><img src="assets/contact.png" width="100%" alt="Got a dataset, an internship, or an idea? Let's build something that ships."/></a>
